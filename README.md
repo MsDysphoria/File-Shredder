@@ -5,7 +5,7 @@
 
 ## Description
 
-Finds keywords in file naming and content, overwrites the content and shreds
+Finds keywords in file naming and content in a specified directory, overwrites the content of files and shreds
  
 ## Table of Contents
 - [Information](#information)
