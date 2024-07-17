@@ -21,7 +21,7 @@ Finds keywords in file naming and content, overwrites the content and shreds
 - One could find use for it in disposing files quickly and easily. An example scenario would be tagging all the sensitive files inside the drives with a set keyword in their file naming or in their content for possible future deletion. The software would search all the directories for files with the set keyword and bulk shred them when time would be of the essence.
 
 `How can I use it?` <br />
-- SPick a target directory and the desired keyword for shredding. Set a level for multi-pass (the number of times files should be overwritten with randomized data to increase the likelihood of making the files unrecoverable) and check the confirmation box for disclaimer located below the console to begin.
+- Pick a target directory and the desired keyword for shredding. Set a level for multi-pass (the number of times files should be overwritten with randomized data to increase the likelihood of making the files unrecoverable) and check the confirmation box for disclaimer located below the console to begin.
 
 ## Installation
 To install and use this software, simply extract the archive found in `Releases`.
