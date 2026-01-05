@@ -9,6 +9,7 @@ Finds keywords in file naming and content in a specified directory, overwrites t
  
 ## Table of Contents
 - [Information](#information)
+- [Disclaimer](#disclaimer)
 - [Installation](#installation)
 - [Screenshot](#screenshot)
 - [Contact](#contact)
@@ -22,6 +23,16 @@ Finds keywords in file naming and content in a specified directory, overwrites t
 
 `How can I use it?` <br />
 - Pick a target directory and the desired keyword for shredding. Set a level for multi-pass (the number of times files should be overwritten with randomized data to increase the likelihood of making the files unrecoverable) and check the confirmation box for disclaimer located below the console to begin.
+
+## Disclaimer
+⚠️ WARNING – USE WITH CAUTION ⚠️
+
+This is an administrative tool designed to permanently delete files.
+Improper use may result in irreversible data loss.
+
+The author assumes no responsibility for accidental damage, data loss, or misuse.
+
+By using this tool, you acknowledge that you understand the risks involved and accept full responsibility for its use.
 
 ## Installation
 To install and use this software, simply extract the archive found in `Releases`.
